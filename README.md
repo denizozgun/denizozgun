@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h1 align="center">Hi there  👋! I'm Deniz Ozgun</h1>
 
 ###
