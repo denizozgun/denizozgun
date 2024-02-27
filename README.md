@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi there  👋! I'm Deniz Ozgun</h1>
+<h1 align="center">Hi there  👋! I'm Deniz </h1>
 
 ###
 
