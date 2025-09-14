@@ -10,8 +10,6 @@ I’m passionate about building scalable and efficient systems, focusing on Back
 
 🚀 Continuously improving myself to grow as a professional in the intersection of Backend & Data
 
-## Contact Me
-<p><a href="www.linkedin.com/in/denizozgun" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
 
 ## Skills
 
