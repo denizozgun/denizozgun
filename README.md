@@ -20,6 +20,3 @@ I’m passionate about building scalable and efficient systems, focusing on Back
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizozgun&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
